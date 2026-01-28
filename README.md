@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricky%20Riotaro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+<!-- Animated Header - Black Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=180&section=header&text=Ricky%20Riotaro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
 
 <!-- Animated Typing -->
 
@@ -26,6 +26,9 @@
 </a>
 <a href="mailto:rickyriotaro288@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://rickyriotaro.my.id/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 </div>
@@ -156,8 +159,8 @@ const ricky = {
 
 <br/>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Animated Footer - Black Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer"/>
 
 <b>Thanks for visiting! Let's connect and build something awesome together! 🚀</b>
 
