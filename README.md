@@ -150,14 +150,6 @@ const ricky = {
 
 ---
 
-## 🎵 Coding Vibes
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hzxhx5lqyvfifqvww4eafuphey&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
-</div>
-
----
-
 <div align="center">
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
