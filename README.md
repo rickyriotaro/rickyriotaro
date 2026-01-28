@@ -100,27 +100,6 @@ const ricky = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickyriotaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyriotaro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rickyriotaro&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=6366f1&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=8b949e"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rickyriotaro&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
