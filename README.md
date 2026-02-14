@@ -35,7 +35,7 @@
 
 ---
 
-## 🎮 About Me
+## About Me
 
 ```javascript
 const ricky = {
@@ -67,11 +67,11 @@ const ricky = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -81,7 +81,7 @@ const ricky = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -90,7 +90,7 @@ const ricky = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Database & Tools
+### Database & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -103,7 +103,7 @@ const ricky = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -115,7 +115,7 @@ const ricky = {
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <table align="center">
   <tr>
@@ -145,7 +145,7 @@ const ricky = {
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -155,7 +155,7 @@ const ricky = {
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <br/>
 
